@@ -89,7 +89,7 @@ Kode JavaScript ini menampilkan teks "selamat mencoba javascript" diikuti dengan
 ![image](https://github.com/user-attachments/assets/56103af1-bcbb-4f03-bd2f-603f46035e52)
 
 
-Setelah perintah tadi lalu muncul seperti gambar diatas, lalu ketik "nama Dhean Shafwan" lalu akan muncul seperti gambar dibawah ini
+Setelah perintah tadi lalu muncul seperti gambar diatas, lalu ketik "nama Ahmad Puat Kamal" lalu akan muncul seperti gambar dibawah ini
 <br>
 
 ![image](https://github.com/user-attachments/assets/76f2a5cd-28fb-495c-9e3b-815813fc43f7)
